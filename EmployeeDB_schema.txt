@@ -1,3 +1,12 @@
+
+SELECT - extracts data from a database.
+UPDATE - updates data in a database.
+DELETE - deletes data from a database.
+INSERT INTO - inserts new data into a database.
+CREATE DATABASE - creates a new database.
+ALTER DATABASE - modifies a database.
+CREATE TABLE - creates a new table.
+
 departments
 -
 dept_no varchar pk fk - dept_manager.dept_no
